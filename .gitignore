@@ -2,6 +2,6 @@
 __pycache__/
 *.sqlite3
 .env
-venv/
-env/
+nvenv/
+django/
 jetbrains-toolbox-2.0.4.17212
