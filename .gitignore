@@ -9,3 +9,6 @@ jetbrains-toolbox-2.0.4.17212nvenv/
 __pycache__/
 *.py[cod]
 *.sqlite3
+qodana.yaml
+.github
+.idea
