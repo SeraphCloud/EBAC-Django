@@ -4,6 +4,7 @@ __pycache__/
 .env
 venv/
 env/
+nvenv/
 jetbrains-toolbox-2.0.4.17212nvenv/
 __pycache__/
 *.py[cod]
