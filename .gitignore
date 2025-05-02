@@ -4,4 +4,7 @@ __pycache__/
 .env
 venv/
 env/
-jetbrains-toolbox-2.0.4.17212
+jetbrains-toolbox-2.0.4.17212nvenv/
+__pycache__/
+*.py[cod]
+*.sqlite3
